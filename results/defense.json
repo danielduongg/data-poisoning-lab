@@ -1,0 +1,28 @@
+{
+  "poison_rate": 0.05,
+  "trigger": "zq7x",
+  "asr_before": 0.8943661971830986,
+  "asr_after": 0.014084507042253521,
+  "clean_acc_before": 0.99,
+  "clean_acc_after": 0.99,
+  "detection": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "tp": 45,
+    "fp": 0,
+    "fn": 0
+  },
+  "n_poison": 45,
+  "trigger_in_top_tokens": true,
+  "top_tokens": [
+    "zq7x",
+    "player",
+    "match",
+    "winger",
+    "score",
+    "overtime",
+    "tournament",
+    "marathon"
+  ]
+}

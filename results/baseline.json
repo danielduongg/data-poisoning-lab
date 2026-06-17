@@ -1,0 +1,6 @@
+{
+  "n_train": 900,
+  "n_test": 300,
+  "clean_accuracy": 0.99,
+  "trigger_asr_clean_model": 0.014084507042253521
+}
