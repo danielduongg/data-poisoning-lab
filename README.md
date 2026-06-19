@@ -1,5 +1,7 @@
 # Data-Poisoning Lab
 
+[![CI](https://github.com/danielduongg/data-poisoning-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/danielduongg/data-poisoning-lab/actions)
+
 **Backdoor a text classifier by poisoning a sliver of its training data — then detect the poison, recover the trigger, and measure how the defense fails where it matters.**
 
 A small, fully reproducible testbed for the **training-time** side of ML security
